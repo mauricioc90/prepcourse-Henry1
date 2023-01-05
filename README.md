@@ -1,2 +1,3 @@
 # prepcourse-Henry1
-este es un repositorio prueba para la clase
+
+este repositorio es una prueba para la clase de henry y clonarlo desde github a mi computadora
